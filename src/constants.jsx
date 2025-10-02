@@ -8,3 +8,15 @@ export const runStates = {
   paused: "paused",
   running: "running",
 };
+
+export const gridSizes = {
+  small: "small",
+  medium: "medium",
+  large: "large",
+};
+
+export const cellShapes = {
+  hexagon: "hexagon",
+  pentagon: "pentagon",
+  square: "square",
+};
