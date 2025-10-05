@@ -16,3 +16,13 @@ body {
 .debug-border {
     border: 1px solid red;
 }
+
+.logo-container {
+    display: inline-block;
+}
+
+.logo-image {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
